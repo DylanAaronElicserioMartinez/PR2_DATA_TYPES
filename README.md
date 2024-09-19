@@ -4,7 +4,7 @@ Las variables pueden almacenar datos de diferentes tipos, y diferentes tipos pue
 
 print(" ")
 
-print("Dylan Aaron Elicserio MArtínez esta es mi practica")
+print("Dylan Aaron Elicserio Martínez esta es mi practica PR2_DATA_TYPES")
 
 print(" ")
 
@@ -20,6 +20,4 @@ print(type(y)) #print va a imprimir en la pantalla el valor de y como unico valo
 
 print(type(z)) #print va a imprimir en la pantalla el valor de z como unico valor
 
-
-![image](https://github.com/user-attachments/assets/ea43a952-2fa6-4b6b-9c1a-71e282ba1885)
-
+![image](https://github.com/user-attachments/assets/c8996013-0461-42a2-a614-90b8ed76f258)
